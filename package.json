@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "success",
+  "version": "2.0.0",
+  "description": "this pakeg is node js bakend sarvar\t",
+  "main": "sarver.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "sarver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/rakeshkhaarol/create-a-server.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
